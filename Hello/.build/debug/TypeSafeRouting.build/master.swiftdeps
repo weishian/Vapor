@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "b24acffd202b82c1c81c493ebde0dc66"
+build_time: [541335966, 153343000]
+inputs:
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Routing-1.0.2/Sources/TypeSafeRouting/Generated.swift": [541335931, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Routing-1.0.2/Sources/TypeSafeRouting/StringInitializable.swift": [541335931, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Routing-1.0.2/Sources/TypeSafeRouting/TypeSafeRoutingError.swift": [541335931, 0]

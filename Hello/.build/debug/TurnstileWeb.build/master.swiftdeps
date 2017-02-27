@@ -1,0 +1,16 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "d7f67a6dccc37ed319ba19bbbcc71c4a"
+build_time: [541335953, 152756000]
+inputs:
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Turnstile-1.0.5/Sources/TurnstileWeb/URLSession+Turnstile.swift": [541335921, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Turnstile-1.0.5/Sources/TurnstileWeb/WebMemoryRealm.swift": [541335921, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Turnstile-1.0.5/Sources/TurnstileWeb/LoginProviders/Digits.swift": [541335921, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Turnstile-1.0.5/Sources/TurnstileWeb/LoginProviders/Facebook.swift": [541335921, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Turnstile-1.0.5/Sources/TurnstileWeb/LoginProviders/Google.swift": [541335921, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Turnstile-1.0.5/Sources/TurnstileWeb/Protocols/OAuth/OAuthDelegator.swift": [541335921, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Turnstile-1.0.5/Sources/TurnstileWeb/Protocols/OAuth/OAuthEcho.swift": [541335921, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Turnstile-1.0.5/Sources/TurnstileWeb/Protocols/OAuth/OAuthParameters.swift": [541335921, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Turnstile-1.0.5/Sources/TurnstileWeb/Protocols/OAuth2/AuthorizationCode.swift": [541335921, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Turnstile-1.0.5/Sources/TurnstileWeb/Protocols/OAuth2/OAuth2.swift": [541335921, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Turnstile-1.0.5/Sources/TurnstileWeb/Protocols/OAuth2/OAuth2Error.swift": [541335921, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Turnstile-1.0.5/Sources/TurnstileWeb/Protocols/OAuth2/OAuth2Token.swift": [541335921, 0]

@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "607ae7f2afad85c2f867662d5329ca6f"
+build_time: [541335955, 654859000]
+inputs:
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/JSON-1.0.6/Sources/JSON/File.swift": [541335913, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/JSON-1.0.6/Sources/JSON/JSON+Bytes.swift": [541335911, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/JSON-1.0.6/Sources/JSON/JSON+Equatable.swift": [541335911, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/JSON-1.0.6/Sources/JSON/JSON+Node.swift": [541335913, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/JSON-1.0.6/Sources/JSON/JSON+Parse.swift": [541335913, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/JSON-1.0.6/Sources/JSON/JSON+Serialize.swift": [541335913, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/JSON-1.0.6/Sources/JSON/JSON.swift": [541335911, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/JSON-1.0.6/Sources/JSON/JSONRepresentable.swift": [541335911, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/JSON-1.0.6/Sources/JSON/Sequence+Convertible.swift": [541335911, 0]

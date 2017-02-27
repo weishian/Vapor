@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "92d14e3b57a5b134c714d593d7cb4cec"
+build_time: [541335967, 335761000]
+inputs:
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Vapor-1.5.7/Sources/Cache/CacheProtocol.swift": [541335692, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Vapor-1.5.7/Sources/Cache/FluentCache.swift": [541335727, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Vapor-1.5.7/Sources/Cache/MemoryCache.swift": [541335692, 0]

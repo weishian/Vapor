@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Essentials.build/master.swiftdeps"
+  },
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Crypto-1.0.1/Sources/Essentials/ByteStream.swift": {
+    "dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Essentials.build/ByteStream.d",
+    "object": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Essentials.build/ByteStream.swift.o",
+    "swiftmodule": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Essentials.build/ByteStream~partial.swiftmodule",
+    "swift-dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Essentials.build/ByteStream.swiftdeps"
+  },
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Crypto-1.0.1/Sources/Essentials/Helpers.swift": {
+    "dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Essentials.build/Helpers.d",
+    "object": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Essentials.build/Helpers.swift.o",
+    "swiftmodule": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Essentials.build/Helpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Essentials.build/Helpers.swiftdeps"
+  }
+}

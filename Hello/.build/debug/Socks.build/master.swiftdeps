@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "e935779d16b0837ccaa02726bc0bc0a9"
+build_time: [541335949, 572831000]
+inputs:
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Socks-1.2.6/Sources/Socks/Socks.swift": [541335900, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Socks-1.2.6/Sources/Socks/SynchronousTCPServer.swift": [541335900, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Socks-1.2.6/Sources/Socks/SynchronousUDPServer.swift": [541335900, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Socks-1.2.6/Sources/Socks/TCPClient.swift": [541335900, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Socks-1.2.6/Sources/Socks/UDPClient.swift": [541335900, 0]

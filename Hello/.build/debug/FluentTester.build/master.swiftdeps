@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "8e81f35bd510049dd01f1b1a54171cf5"
+build_time: [541335957, 712471000]
+inputs:
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Fluent-1.4.1/Sources/FluentTester/Atom.swift": [541335825, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Fluent-1.4.1/Sources/FluentTester/Compound.swift": [541335825, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Fluent-1.4.1/Sources/FluentTester/Student.swift": [541335825, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Fluent-1.4.1/Sources/FluentTester/Tester+InsertAndFind.swift": [541335825, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Fluent-1.4.1/Sources/FluentTester/Tester+PivotsAndRelations.swift": [541335825, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Fluent-1.4.1/Sources/FluentTester/Tester+Schema.swift": [541335825, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Fluent-1.4.1/Sources/FluentTester/Tester+Utilities.swift": [541335825, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Fluent-1.4.1/Sources/FluentTester/Tester.swift": [541335825, 0]

@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Random.build/master.swiftdeps"
+  },
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Crypto-1.0.1/Sources/Random/CryptoRandom.swift": {
+    "dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Random.build/CryptoRandom.d",
+    "object": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Random.build/CryptoRandom.swift.o",
+    "swiftmodule": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Random.build/CryptoRandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Random.build/CryptoRandom.swiftdeps"
+  },
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Crypto-1.0.1/Sources/Random/Random.swift": {
+    "dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Random.build/Random.d",
+    "object": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Random.build/Random.swift.o",
+    "swiftmodule": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Random.build/Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Random.build/Random.swiftdeps"
+  },
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Crypto-1.0.1/Sources/Random/URandom.swift": {
+    "dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Random.build/URandom.d",
+    "object": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Random.build/URandom.swift.o",
+    "swiftmodule": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Random.build/URandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Random.build/URandom.swiftdeps"
+  }
+}

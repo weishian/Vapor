@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "ef460b468df4e35b5a773ad53a78bed0"
+build_time: [541335967, 335782000]
+inputs:
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Vapor-1.5.7/Sources/Settings/Config+Arguments.swift": [541335692, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Vapor-1.5.7/Sources/Settings/Config+Directory.swift": [541335727, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Vapor-1.5.7/Sources/Settings/Config.swift": [541335727, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Vapor-1.5.7/Sources/Settings/KeyAccessible+Merge.swift": [541335692, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Vapor-1.5.7/Sources/Settings/KeyAccessible.swift": [541335692, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Vapor-1.5.7/Sources/Settings/Node+Merge.swift": [541335692, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Vapor-1.5.7/Sources/Settings/Source.swift": [541335692, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Vapor-1.5.7/Sources/Settings/Env/Env.swift": [541335692, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Vapor-1.5.7/Sources/Settings/Env/Node+Env.swift": [541335727, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Vapor-1.5.7/Sources/Settings/Env/String+Env.swift": [541335727, 0]

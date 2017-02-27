@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "188a2c12e258579afea42da7a22327d3"
+build_time: [541335964, 477128000]
+inputs:
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Multipart-1.0.1/Sources/FormData/ContentDispositionParser.swift": [541335936, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Multipart-1.0.1/Sources/FormData/Field.swift": [541335934, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Multipart-1.0.1/Sources/FormData/Parser.swift": [541335936, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Multipart-1.0.1/Sources/FormData/Serializer.swift": [541335936, 0]

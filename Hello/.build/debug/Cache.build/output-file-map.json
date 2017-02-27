@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Cache.build/master.swiftdeps"
+  },
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Vapor-1.5.7/Sources/Cache/CacheProtocol.swift": {
+    "dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Cache.build/CacheProtocol.d",
+    "object": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Cache.build/CacheProtocol.swift.o",
+    "swiftmodule": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Cache.build/CacheProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Cache.build/CacheProtocol.swiftdeps"
+  },
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Vapor-1.5.7/Sources/Cache/FluentCache.swift": {
+    "dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Cache.build/FluentCache.d",
+    "object": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Cache.build/FluentCache.swift.o",
+    "swiftmodule": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Cache.build/FluentCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Cache.build/FluentCache.swiftdeps"
+  },
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Vapor-1.5.7/Sources/Cache/MemoryCache.swift": {
+    "dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Cache.build/MemoryCache.d",
+    "object": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Cache.build/MemoryCache.swift.o",
+    "swiftmodule": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Cache.build/MemoryCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/Cache.build/MemoryCache.swiftdeps"
+  }
+}

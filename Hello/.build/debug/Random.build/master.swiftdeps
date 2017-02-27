@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "092cdd48ba13e73a0b6b6f84fb32adad"
+build_time: [541335956, 535563000]
+inputs:
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Crypto-1.0.1/Sources/Random/CryptoRandom.swift": [541335729, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Crypto-1.0.1/Sources/Random/Random.swift": [541335729, 0]
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Crypto-1.0.1/Sources/Random/URandom.swift": [541335729, 0]

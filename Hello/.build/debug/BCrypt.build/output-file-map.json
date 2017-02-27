@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/BCrypt.build/master.swiftdeps"
+  },
+  "/Users/DanielChang/Documents/Vapor/Hello/Packages/Crypto-1.0.1/Sources/BCrypt/BCrypt.swift": {
+    "dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/BCrypt.build/BCrypt.d",
+    "object": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/BCrypt.build/BCrypt.swift.o",
+    "swiftmodule": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/BCrypt.build/BCrypt~partial.swiftmodule",
+    "swift-dependencies": "/Users/DanielChang/Documents/Vapor/Hello/.build/debug/BCrypt.build/BCrypt.swiftdeps"
+  }
+}
